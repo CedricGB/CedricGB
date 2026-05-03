@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm learning java for the moment
+
+I'm a new developper from LE WAGON, I learned the basics of fullstack developpement with ruby on rails, HTML/CSS/JS and many differents tools around it. 
