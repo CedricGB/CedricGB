@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**CedricGB/CedricGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer. I finished my bootcamp at **Le Wagon** in May 2026, where I learned the basics of full-stack development with **Ruby on Rails, HTML, CSS, JavaScript**, and many other tools.
 
-Here are some ideas to get you started:
+Before that, I learned the basics of **Java** through the **OpenClassrooms** and **Hyperskill** platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on improving my skills in **AI and JavaScript**.
 
-I'm a new developper from LE WAGON, I learned the basics of fullstack developpement with ruby on rails, HTML/CSS/JS and many differents tools around it. 
+During my bootcamp at Le Wagon, we built two apps:
+
+- A tool to help people organize their travel plans (**Ruby on Rails / Google APIs / Tailwind CSS**)
+- A tool designed to help people with dyslexia (**Ruby on Rails / Google APIs / Tailwind CSS**)
+
+I'm now working on different projet to gain in experience.
